@@ -1,6 +1,4 @@
-The content you've shared looks like a default **Create React App** README, which provides a good overview of the project setup and available commands. Since your project is focused on building an e-commerce-like website for a fast food restaurant, you may want to modify the README to make it more specific and helpful for your project's context. Here's how you can enhance and customize it:
 
----
 
 # Fast Food Restaurant E-commerce Website
 
